@@ -30,6 +30,6 @@ def circulate():
     print("After circulating the values are:",result)
 ```    
 ## Output:
-!("output")(![Alt text](<Screenshot from 2023-10-17 14-11-22.png>))
+!['output'](![Alt text](<Screenshot from 2023-10-17 14-11-22.png>))
 ## Result:
 Thus the python program for circulate the values of n variables is executed successfully
